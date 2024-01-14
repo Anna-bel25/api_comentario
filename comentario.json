@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "fecha": "2023-08-10",
+    "fecha": "10-08-2023",
     "nombre": "NatFan",
     "comentario": "La naturaleza es increíble. Me encanta.",
     "valoracion": 5.0,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "fecha": "2023-08-11",
+    "fecha": "11-08-2023",
     "nombre": "ArteColor",
     "comentario": "Colores reflejan la cultura ecuatoriana. Hermoso trabajo.",
     "valoracion": 5.0,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "fecha": "2023-08-12",
+    "fecha": "12-08-2023",
     "nombre": "MaePincel",
     "comentario": "Técnica impresionante. Cada detalle está cuidadosamente trabajado.",
     "valoracion": 4.0,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "fecha": "2023-08-13",
+    "fecha": "13-08-2023",
     "nombre": "EmoProf",
     "comentario": "Evoca emociones profundas. Es una obra maestra.",
     "valoracion": 4.5,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "fecha": "2023-08-14",
+    "fecha": "14-08-2023",
     "nombre": "FusCol",
     "comentario": "Fusión de colores y composición única.",
     "valoracion": 3.0,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "fecha": "2023-08-15",
+    "fecha": "15-08-2023",
     "nombre": "HisCon",
     "comentario": "Captura la esencia de la historia ecuatoriana.",
     "valoracion": 3.5,
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "fecha": "2023-08-16",
+    "fecha": "16-08-2023",
     "nombre": "ColUnic",
     "comentario": "Mezcla de colores única. Refleja la diversidad cultural de Ecuador.",
     "valoracion": 2.5,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "fecha": "2023-08-17",
+    "fecha": "17-08-2023",
     "nombre": "DetPrec",
     "comentario": "Atención al detalle evidente. Un tributo visual a la creatividad ecuatoriana.",
     "valoracion": 2.0,
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "fecha": "2023-08-18",
+    "fecha": "18-08-2023",
     "nombre": "SimSorp",
     "comentario": "La simetría es sorprendente. Cada elemento encaja perfectamente.",
     "valoracion": 5.0,
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "fecha": "2023-08-19",
+    "fecha": "19-08-2023",
     "nombre": "LuzSomb",
     "comentario": "Uso de la luz y la sombra crea una atmósfera cautivadora.",
     "valoracion": 5.0,
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "fecha": "2023-08-20",
+    "fecha": "20-08-2023",
     "nombre": "ConCult",
     "comentario": "Conexión entre la pintura y la cultura ecuatoriana es evidente.",
     "valoracion": 4.0,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "fecha": "2023-08-21",
+    "fecha": "21-08-2023",
     "nombre": "HisVisu",
     "comentario": "Pintura que cuenta una historia visualmente impactante.",
     "valoracion": 4.5,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "fecha": "2023-08-22",
+    "fecha": "22-08-2023",
     "nombre": "ExpMag",
     "comentario": "Expresión artística magnífica. Un testimonio del talento ecuatoriano.",
     "valoracion": 3.0,
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "fecha": "2023-08-23",
+    "fecha": "23-08-2023",
     "nombre": "ContraAsom",
     "comentario": "Contrastes de colores crean un efecto visual asombroso.",
     "valoracion": 3.5,
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "fecha": "2023-08-24",
+    "fecha": "24-08-2023",
     "nombre": "PerspUnic",
     "comentario": "La perspectiva es única. Me hace sentir parte de la escena.",
     "valoracion": 2.5,
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "fecha": "2023-08-25",
+    "fecha": "25-08-2023",
     "nombre": "SereMag",
     "comentario": "Transmite una sensación de calma y serenidad. Magnífica ejecución.",
     "valoracion": 5.0,
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "fecha": "2023-08-26",
+    "fecha": "26-08-2023",
     "nombre": "DetAsomb",
     "comentario": "Detalles asombrosos. Cada pincelada cuenta una historia propia.",
     "valoracion": 5.0,
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "fecha": "2023-08-27",
+    "fecha": "27-08-2023",
     "nombre": "HisCaut",
     "comentario": "Temática histórica reflejada es cautivadora. Una ventana al pasado ecuatoriano.",
     "valoracion": 4.0,
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "fecha": "2023-08-28",
+    "fecha": "28-08-2023",
     "nombre": "EstIntr",
     "comentario": "Diversidad de estilos artísticos es intrigante. Muestra del talento ecléctico ecuatoriano.",
     "valoracion": 4.5,
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "fecha": "2023-08-29",
+    "fecha": "29-08-2023",
     "nombre": "PalVibr",
     "comentario": "Paleta de colores vibrante. Absolutamente impresionante.",
     "valoracion": 3.0,
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-    "fecha": "2023-08-30",
+    "fecha": "30-08-2023",
     "nombre": "ExpConm",
     "comentario": "Expresión facial conmovedora. Se puede sentir la emoción.",
     "valoracion": 3.5,
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "fecha": "2023-09-01",
+    "fecha": "01-09-2023",
     "nombre": "VidaPint",
     "comentario": "Parece cobrar vida. Habilidad del artista es excepcional.",
     "valoracion": 2.5,
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "fecha": "2023-09-02",
+    "fecha": "02-09-2023",
     "nombre": "TexAdic",
     "comentario": "Uso de la textura agrega una dimensión adicional. Placer visual.",
     "valoracion": 5.0,
@@ -208,7 +208,7 @@
   },
   {
     "id": 24,
-    "fecha": "2023-09-03",
+    "fecha": "03-09-2023",
     "nombre": "InteVisu",
     "comentario": "Representación de la luz crea un juego visual intrigante.",
     "valoracion": 5.0,
@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "fecha": "2023-09-04",
+    "fecha": "04-09-2023",
     "nombre": "EspaNega",
     "comentario": "Composición equilibrada de elementos es notable. Cada parte contribuye al conjunto.",
     "valoracion": 4.0,
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "fecha": "2023-09-05",
+    "fecha": "05-09-2023",
     "nombre": "ConNatur",
     "comentario": "Tema de la naturaleza es sublime. Conexión profunda con el entorno.",
     "valoracion": 4.5,
@@ -235,7 +235,7 @@
   },
   {
     "id": 27,
-    "fecha": "2023-09-06",
+    "fecha": "06-09-2023",
     "nombre": "PersoImpa",
     "comentario": "Elección de perspectiva añade profundidad. Experiencia visual única.",
     "valoracion": 3.0,
@@ -244,7 +244,7 @@
   },
   {
     "id": 28,
-    "fecha": "2023-09-07",
+    "fecha": "07-09-2023",
     "nombre": "MaeEclec",
     "comentario": "Fusión de estilos contemporáneos y tradicionales es impresionante. Obra maestra ecléctica.",
     "valoracion": 3.5,
@@ -253,7 +253,7 @@
   },
   {
     "id": 29,
-    "fecha": "2023-09-08",
+    "fecha": "08-09-2023",
     "nombre": "IntAbs",
     "comentario": "Representación abstracta permite diversas interpretaciones. Desafío estimulante.",
     "valoracion": 2.5,
@@ -262,7 +262,7 @@
   },
   {
     "id": 30,
-    "fecha": "2023-09-09",
+    "fecha": "09-09-2023",
     "nombre": "EmoDejHue",
     "comentario": "Conexión emocional palpable. Obra que deja huella.",
     "valoracion": 5.0,
@@ -271,7 +271,7 @@
   },
   {
     "id": 31,
-    "fecha": "2023-09-10",
+    "fecha": "10-09-2023",
     "nombre": "ArqExcep",
     "comentario": "Representación de la arquitectura es excepcional. Cada detalle resalta la belleza.",
     "valoracion": 4.5,
@@ -280,7 +280,7 @@
   },
   {
     "id": 32,
-    "fecha": "2023-09-11",
+    "fecha": "11-09-2023",
     "nombre": "MisSens",
     "comentario": "La obra transmite una sensación de misterio. Interpretación abierta permite diferentes perspectivas.",
     "valoracion": 4.0,
@@ -289,7 +289,7 @@
   },
   {
     "id": 33,
-    "fecha": "2023-09-12",
+    "fecha": "12-09-2023",
     "nombre": "ArmVisu",
     "comentario": "Composición es cautivadora. Cada elemento contribuye a la armonía visual.",
     "valoracion": 4.5,
@@ -298,7 +298,7 @@
   },
   {
     "id": 34,
-    "fecha": "2023-09-13",
+    "fecha": "13-09-2023",
     "nombre": "DetMetic",
     "comentario": "Uso de la técnica de puntillismo es impresionante. Detalles meticulosos.",
     "valoracion": 3.0,
@@ -307,7 +307,7 @@
   },
   {
     "id": 35,
-    "fecha": "2023-09-14",
+    "fecha": "14-09-202",
     "nombre": "ImaDesp",
     "comentario": "Abstracción despierta la imaginación. Experiencia visual única.",
     "valoracion": 3.5,
@@ -316,7 +316,7 @@
   },
   {
     "id": 36,
-    "fecha": "2023-09-15",
+    "fecha": "15-09-2023",
     "nombre": "TriDiv",
     "comentario": "Conexión cultural reflejada es notable. Tributo a la diversidad ecuatoriana.",
     "valoracion": 2.5,
@@ -325,7 +325,7 @@
   },
   {
     "id": 37,
-    "fecha": "2023-09-16",
+    "fecha": "16-09-2023",
     "nombre": "LogArtis",
     "comentario": "Contraste entre luces y sombras crea una atmósfera intrigante. Logro artístico.",
     "valoracion": 2.0,
@@ -334,7 +334,7 @@
   },
   {
     "id": 38,
-    "fecha": "2023-09-17",
+    "fecha": "17-09-2023",
     "nombre": "VenEmoci",
     "comentario": "Expresión en los rostros de los personajes es impactante. Ventana a las emociones humanas.",
     "valoracion": 5.0,
@@ -343,7 +343,7 @@
   },
   {
     "id": 39,
-    "fecha": "2023-09-18",
+    "fecha": "18-09-2023",
     "nombre": "SenAcoge",
     "comentario": "Paleta de colores cálidos transmite una sensación acogedora. Maravilloso.",
     "valoracion": 5.0,
@@ -352,7 +352,7 @@
   },
   {
     "id": 40,
-    "fecha": "2023-09-19",
+    "fecha": "19-09-2023",
     "nombre": "MovDinam",
     "comentario": "Perspectiva única crea una sensación de movimiento. Experiencia dinámica.",
     "valoracion": 4.0,
@@ -361,7 +361,7 @@
   },
   {
     "id": 41,
-    "fecha": "2023-09-20",
+    "fecha": "20-09-2023",
     "nombre": "SimProfu",
     "comentario": "Simbolismo es profundo. Cada elemento tiene un significado único.",
     "valoracion": 4.5,
@@ -370,7 +370,7 @@
   },
   {
     "id": 42,
-    "fecha": "2023-09-21",
+    "fecha": "21-09-2023",
     "nombre": "TriNatur",
     "comentario": "Representación de la flora ecuatoriana es fiel y hermosa. Tributo a la naturaleza.",
     "valoracion": 3.0,
@@ -379,7 +379,7 @@
   },
   {
     "id": 43,
-    "fecha": "2023-09-22",
+    "fecha": "22-09-2023",
     "nombre": "ArtMod",
     "comentario": "Fusión de estilos contemporáneos y tradicionales crea una obra moderna y atemporal.",
     "valoracion": 3.5,
@@ -388,7 +388,7 @@
   },
   {
     "id": 44,
-    "fecha": "2023-09-23",
+    "fecha": "23-09-2023",
     "nombre": "InterPers",
     "comentario": "Abstracción permite interpretaciones personales. Cada espectador encuentra su propio significado.",
     "valoracion": 2.5,
@@ -397,7 +397,7 @@
   },
   {
     "id": 45,
-    "fecha": "2023-09-24",
+    "fecha": "24-09-2023",
     "nombre": "EspaNeg",
     "comentario": "Uso del espacio negativo resalta la figura central. Técnica visualmente impactante.",
     "valoracion": 2.0,
