@@ -50,7 +50,7 @@
     "nombre": "HisCon",
     "comentario": "Captura la esencia de la historia ecuatoriana.",
     "valoracion": 3.5,
-    "imagen": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "imagen": "https://images.unsplash.com/photo-1473830394358-91588751b241?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBlcnNvbmF8ZW58MHx8MHx8fDA%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
