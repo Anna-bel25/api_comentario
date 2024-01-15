@@ -5,7 +5,7 @@
     "nombre": "NatFan",
     "comentario": "La naturaleza es increíble. Me encanta.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -14,7 +14,7 @@
     "nombre": "ArteColor",
     "comentario": "Colores reflejan la cultura ecuatoriana. Hermoso trabajo.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1398&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -23,7 +23,7 @@
     "nombre": "MaePincel",
     "comentario": "Técnica impresionante. Cada detalle está cuidadosamente trabajado.",
     "valoracion": 4.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=1372&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -32,7 +32,7 @@
     "nombre": "EmoProf",
     "comentario": "Evoca emociones profundas. Es una obra maestra.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1673835488133-c7bb0729c218?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -41,7 +41,7 @@
     "nombre": "FusCol",
     "comentario": "Fusión de colores y composición única.",
     "valoracion": 3.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -50,7 +50,7 @@
     "nombre": "HisCon",
     "comentario": "Captura la esencia de la historia ecuatoriana.",
     "valoracion": 3.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -59,7 +59,7 @@
     "nombre": "ColUnic",
     "comentario": "Mezcla de colores única. Refleja la diversidad cultural de Ecuador.",
     "valoracion": 2.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -68,7 +68,7 @@
     "nombre": "DetPrec",
     "comentario": "Atención al detalle evidente. Un tributo visual a la creatividad ecuatoriana.",
     "valoracion": 2.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -77,7 +77,7 @@
     "nombre": "SimSorp",
     "comentario": "La simetría es sorprendente. Cada elemento encaja perfectamente.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1674777843203-da3ebb9fbca0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -86,7 +86,7 @@
     "nombre": "LuzSomb",
     "comentario": "Uso de la luz y la sombra crea una atmósfera cautivadora.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1492681290082-e932832941e6?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -95,7 +95,7 @@
     "nombre": "ConCult",
     "comentario": "Conexión entre la pintura y la cultura ecuatoriana es evidente.",
     "valoracion": 4.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1494959764136-6be9eb3c261e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -104,7 +104,7 @@
     "nombre": "HisVisu",
     "comentario": "Pintura que cuenta una historia visualmente impactante.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -113,7 +113,7 @@
     "nombre": "ExpMag",
     "comentario": "Expresión artística magnífica. Un testimonio del talento ecuatoriano.",
     "valoracion": 3.0,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1668989224643-6b79eaea2108?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -122,7 +122,7 @@
     "nombre": "ContraAsom",
     "comentario": "Contrastes de colores crean un efecto visual asombroso.",
     "valoracion": 3.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -131,7 +131,7 @@
     "nombre": "PerspUnic",
     "comentario": "La perspectiva es única. Me hace sentir parte de la escena.",
     "valoracion": 2.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1504593811423-6dd665756598?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -140,7 +140,7 @@
     "nombre": "SereMag",
     "comentario": "Transmite una sensación de calma y serenidad. Magnífica ejecución.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1473830394358-91588751b241?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -149,7 +149,7 @@
     "nombre": "DetAsomb",
     "comentario": "Detalles asombrosos. Cada pincelada cuenta una historia propia.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -158,7 +158,7 @@
     "nombre": "HisCaut",
     "comentario": "Temática histórica reflejada es cautivadora. Una ventana al pasado ecuatoriano.",
     "valoracion": 4.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1496302662116-35cc4f36df92?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -167,7 +167,7 @@
     "nombre": "EstIntr",
     "comentario": "Diversidad de estilos artísticos es intrigante. Muestra del talento ecléctico ecuatoriano.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1522&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -176,7 +176,7 @@
     "nombre": "PalVibr",
     "comentario": "Paleta de colores vibrante. Absolutamente impresionante.",
     "valoracion": 3.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1500259783852-0ca9ce8a64dc?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -185,7 +185,7 @@
     "nombre": "ExpConm",
     "comentario": "Expresión facial conmovedora. Se puede sentir la emoción.",
     "valoracion": 3.5,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1664536392896-cd1743f9c02c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -194,7 +194,7 @@
     "nombre": "VidaPint",
     "comentario": "Parece cobrar vida. Habilidad del artista es excepcional.",
     "valoracion": 2.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?q=80&w=1560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -203,7 +203,7 @@
     "nombre": "TexAdic",
     "comentario": "Uso de la textura agrega una dimensión adicional. Placer visual.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1499482125586-91609c0b5fd4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -212,7 +212,7 @@
     "nombre": "InteVisu",
     "comentario": "Representación de la luz crea un juego visual intrigante.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -221,7 +221,7 @@
     "nombre": "EspaNega",
     "comentario": "Composición equilibrada de elementos es notable. Cada parte contribuye al conjunto.",
     "valoracion": 4.0,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1675130119373-61ada6685d63?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -230,7 +230,7 @@
     "nombre": "ConNatur",
     "comentario": "Tema de la naturaleza es sublime. Conexión profunda con el entorno.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1581456495146-65a71b2c8e52?q=80&w=1372&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -239,7 +239,7 @@
     "nombre": "PersoImpa",
     "comentario": "Elección de perspectiva añade profundidad. Experiencia visual única.",
     "valoracion": 3.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1555952517-2e8e729e0b44?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -248,7 +248,7 @@
     "nombre": "MaeEclec",
     "comentario": "Fusión de estilos contemporáneos y tradicionales es impresionante. Obra maestra ecléctica.",
     "valoracion": 3.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1542206395-9feb3edaa68d?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -257,7 +257,7 @@
     "nombre": "IntAbs",
     "comentario": "Representación abstracta permite diversas interpretaciones. Desafío estimulante.",
     "valoracion": 2.5,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1677636664547-c3d21c579185?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -266,7 +266,7 @@
     "nombre": "EmoDejHue",
     "comentario": "Conexión emocional palpable. Obra que deja huella.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -275,7 +275,7 @@
     "nombre": "ArqExcep",
     "comentario": "Representación de la arquitectura es excepcional. Cada detalle resalta la belleza.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1491609154219-ffd3ffafd992?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -284,7 +284,7 @@
     "nombre": "MisSens",
     "comentario": "La obra transmite una sensación de misterio. Interpretación abierta permite diferentes perspectivas.",
     "valoracion": 4.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -293,7 +293,7 @@
     "nombre": "ArmVisu",
     "comentario": "Composición es cautivadora. Cada elemento contribuye a la armonía visual.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1664453546896-ad5e0f895eab?q=80&w=1372&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -302,7 +302,7 @@
     "nombre": "DetMetic",
     "comentario": "Uso de la técnica de puntillismo es impresionante. Detalles meticulosos.",
     "valoracion": 3.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -311,7 +311,7 @@
     "nombre": "ImaDesp",
     "comentario": "Abstracción despierta la imaginación. Experiencia visual única.",
     "valoracion": 3.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -320,7 +320,7 @@
     "nombre": "TriDiv",
     "comentario": "Conexión cultural reflejada es notable. Tributo a la diversidad ecuatoriana.",
     "valoracion": 2.5,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1672857821703-398f0bf20b15?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -329,7 +329,7 @@
     "nombre": "LogArtis",
     "comentario": "Contraste entre luces y sombras crea una atmósfera intrigante. Logro artístico.",
     "valoracion": 2.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1554727242-741c14fa561c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -338,7 +338,7 @@
     "nombre": "VenEmoci",
     "comentario": "Expresión en los rostros de los personajes es impactante. Ventana a las emociones humanas.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -347,7 +347,7 @@
     "nombre": "SenAcoge",
     "comentario": "Paleta de colores cálidos transmite una sensación acogedora. Maravilloso.",
     "valoracion": 5.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -356,7 +356,7 @@
     "nombre": "MovDinam",
     "comentario": "Perspectiva única crea una sensación de movimiento. Experiencia dinámica.",
     "valoracion": 4.0,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1673757120943-a6d3b9a3f435?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -365,7 +365,7 @@
     "nombre": "SimProfu",
     "comentario": "Simbolismo es profundo. Cada elemento tiene un significado único.",
     "valoracion": 4.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -374,7 +374,7 @@
     "nombre": "TriNatur",
     "comentario": "Representación de la flora ecuatoriana es fiel y hermosa. Tributo a la naturaleza.",
     "valoracion": 3.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -383,7 +383,7 @@
     "nombre": "ArtMod",
     "comentario": "Fusión de estilos contemporáneos y tradicionales crea una obra moderna y atemporal.",
     "valoracion": 3.5,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -392,7 +392,7 @@
     "nombre": "InterPers",
     "comentario": "Abstracción permite interpretaciones personales. Cada espectador encuentra su propio significado.",
     "valoracion": 2.5,
-    "imagen": "url...png",
+    "imagen": "https://plus.unsplash.com/premium_photo-1671823917954-dc943c1bd9df?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   },
   {
@@ -401,7 +401,7 @@
     "nombre": "EspaNeg",
     "comentario": "Uso del espacio negativo resalta la figura central. Técnica visualmente impactante.",
     "valoracion": 2.0,
-    "imagen": "url...png",
+    "imagen": "https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=1446&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "transaccion": "CONSULTAR_COMENTARIOS"
   }
 ]
